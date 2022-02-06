@@ -8,6 +8,6 @@ $ pip2 install requests
 $ pip2 install bs4
 $ git clone https://github.com/Xenzi-XN1/MBF_2
 $ cd MBF_2
-$ python2 MBF_2.py
+$ python2 MBF_2.pyc
 
 ```
